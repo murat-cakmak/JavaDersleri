@@ -1,4 +1,4 @@
-
+// Scanner ve File komu ile txt dosyasının içeriğini okuyoruz.
 
 import java.util.Scanner;
 import java.io.*;
